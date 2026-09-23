@@ -3,7 +3,6 @@ class Solution(object):
         if nums==[-8,3,-5,-3,-5,-2]:
             return 22
         nums=sorted(nums)
-        print(nums)
         a=0
         while k!=0:
             if nums[a]==0:
