@@ -15,8 +15,8 @@ class Solution(object):
                     else:
                         nums[a]*=-1
                         return sum(nums)
-                    nums[a]*=-1
-                    k-=1
+                    # nums[a]*=-1
+                    # k-=1
                 else:
                     nums[a]*=-1
                     k-=1
