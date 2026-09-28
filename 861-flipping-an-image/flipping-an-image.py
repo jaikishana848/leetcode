@@ -5,3 +5,4 @@ class Solution(object):
             i.reverse()
             a.append([x^1 for x in i])
         return a
+            
